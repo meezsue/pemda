@@ -1,4 +1,4 @@
-url : http://localhost/pemda/
+url : http://localhost/pemda/ atau http://localhost/pemda-main/
 
 Database : Simppuh
 Config   : C:\xampp\htdocs\pemda\application\config\database.php
