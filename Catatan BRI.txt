@@ -1,0 +1,16 @@
+url : http://localhost/pemda/
+
+Database : Simppuh
+Config   : C:\xampp\htdocs\pemda\application\config\database.php
+hostname : localhost
+username : root
+password : ''
+
+user login :
+user : dinkes / kabag / kasubag / pelaksana
+password : 12345678
+
+Flow pengajuan :
+1. dinkes -> kabag -> kasubag -> pelaksana
+2. User Guide : C:\xampp\htdocs\pemda\TSD Perbup-kepbup v.1.doc
+

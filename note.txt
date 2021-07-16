@@ -1,0 +1,8 @@
+nama file di profile sudah ada
+validasi draft perbup jika nama file sama
+login expired tidak bisa masuk
+
+approve ok 
+reject oke
+return not oke untuk revisi tidak semua jadi 1, dan pada saat save harus delete dulu
+jika eksis save
